@@ -9,4 +9,6 @@ C# WinForms를 활용하여 개발한 제한시간 숫자 맞추기 게임입니
 * 최소 시도 횟수를 측정하는 최고 기록(Best Score) 갱신 시스템
 
 ## 📸 게임 실행 화면
-<img width="833" height="465" alt="게임 사진" src="https://github.com/user-attachments/assets/852248db-7aaa-4e1d-8c0d-a5ca497ca672" />
+<img width="841" height="471" alt="게임 사진" src="https://github.com/user-attachments/assets/0beeeecd-6a5a-4b82-a9f1-6056ac43401d" />
+
+
